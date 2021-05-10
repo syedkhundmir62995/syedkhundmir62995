@@ -15,21 +15,21 @@
 ## ✉️ Find me on:
 
 <p align="center">
- <a href="https://www.linkedin.com/in/syed-khundmir-5025441b8/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/sakshigupta08/sakshigupta08/blob/main/Iconns/LinkedIn.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-    <a href="mailto:syedkhundmir62995@gmail.com"> <img src="https://github.com/sakshigupta08/sakshigupta08/blob/main/Iconns/email.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-    <a href="https://www.youtube.com/channel/UC2vSG_zmFVzjSl53lo0QIxQ"> <img src="https://github.com/sakshigupta08/sakshigupta08/blob/main/Iconns/youtube.png" alt="Python" height="40" style="vertical-align:top; margib:4px"></a>
+ <a href="https://www.linkedin.com/in/syed-khundmir-5025441b8/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/sakshigupta08/sakshigupta08/blob/main/Iconns/LinkedIn.png" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a>
+    <a href="mailto:syedkhundmir62995@gmail.com"> <img src="https://github.com/sakshigupta08/sakshigupta08/blob/main/Iconns/email.png" alt="mail" height="40" style="vertical-align:top; margin:6px"></a>
+    <a href="https://www.youtube.com/channel/UC2vSG_zmFVzjSl53lo0QIxQ"> <img src="https://github.com/sakshigupta08/sakshigupta08/blob/main/Iconns/youtube.png" alt="youtube" height="40" style="vertical-align:top; margib:4px"></a>
 </p>
 
 <br />
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://github.com/sakshigupta08/sakshigupta08/blob/main/Iconns/Python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/sakshigupta08/sakshigupta08/blob/main/Iconns/VS.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/sakshigupta08/sakshigupta08/blob/main/Iconns/GitHub.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/sakshigupta08/sakshigupta08/blob/main/Iconns/python-jupyter-notebook.png" alt="Jupyter" height="50" style="vertical-align:top; margin:4px">
-<img src="https://github.com/sakshigupta08/sakshigupta08/blob/main/Iconns/Git%20Bash.png" alt="Git Bash" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/sakshigupta08/sakshigupta08/blob/main/Iconns/spyder.png" alt="Spyder" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/syedkhundmir62995/syedkhundmir62995/blob/main/Icons/Python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/syedkhundmir62995/syedkhundmir62995/blob/main/Icons/sklearn.png" alt="ML" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/syedkhundmir62995/syedkhundmir62995/blob/main/Icons/GitHub.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/syedkhundmir62995/syedkhundmir62995/blob/main/Icons/python-jupyter-notebook.png" alt="Jupyter" height="50" style="vertical-align:top; margin:4px">
+<img src="https://github.com/syedkhundmir62995/syedkhundmir62995/blob/main/Icons/Git%20Bash.png" alt="Git Bash" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/syedkhundmir62995/syedkhundmir62995/blob/main/Icons/cloud.png" alt="aws" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## :trophy: Github Stats 
