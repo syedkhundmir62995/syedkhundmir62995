@@ -15,9 +15,9 @@
 ## ✉️ Find me on:
 
 <p align="center">
- <a href="https://www.linkedin.com/in/syed-khundmir-5025441b8/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/syedkhundmir62995/syedkhundmir62995/blob/main/Icons/linkedin1.png" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/syed-khundmir-5025441b8/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/syedkhundmir62995/syedkhundmir62995/blob/main/Icons/LinkedIn.png" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a>
     <a href="https://www.youtube.com/channel/UC2vSG_zmFVzjSl53lo0QIxQ"> <img src="https://github.com/syedkhundmir62995/syedkhundmir62995/blob/main/Icons/youtube.png" alt="youtube" height="40" style="vertical-align:top; margib:4px"></a>
-  <a href="mailto:syedkhundmir62995@gmail.com"> <img src="https://github.com/syedkhundmir62995/syedkhundmir62995/blob/main/Icons/email.png" alt="mail" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="mailto:syedkhundmir62995@gmail.com"> <img src="https://github.com/syedkhundmir62995/syedkhundmir62995/blob/main/Icons/mail.png" alt="mail" height="40" style="vertical-align:top; margin:4px"></a>
  
 </p>
 
