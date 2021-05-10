@@ -1,8 +1,8 @@
 ### Hi there !👋 This is Syed Khundmir
 ## Visitors 👀
 
-![](https://visitor-badge.laobi.icu/badge?page_id=sakshigupta08.sakshigupta08)
-[![Github](https://img.shields.io/github/followers/sakshigupta08?label=Followers&logo=Github)](https://github.com/sakshigupta08)
+![](https://visitor-badge.laobi.icu/badge?page_id=syedkhundmir62995.syedkhundmir62995)
+[![Github](https://img.shields.io/github/followers/syedkhundmir62995?label=Followers&logo=Github)](https://github.com/syedkhundmir62995)
 
 ## I am a 🎓student pursuing IT at KMIT.
 
