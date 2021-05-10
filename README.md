@@ -4,7 +4,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=sakshigupta08.sakshigupta08)
 [![Github](https://img.shields.io/github/followers/sakshigupta08?label=Followers&logo=Github)](https://github.com/sakshigupta08)
 
-## I am a 🎓student pursuing CSE at MNNIT.
+## I am a 🎓student pursuing IT at KMIT.
 
 - 🔭 I’m currently working on ML projects
 - 🌱 I’m currently learning Data Science
