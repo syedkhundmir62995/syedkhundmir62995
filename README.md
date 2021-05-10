@@ -1,4 +1,4 @@
-- 👋 Hi there ! This is Syed Khundmir
+# 👋 Hi there ! This is Syed Khundmir
 - 👀 I’m interested in Data Science, Machine Learning, Data Analysis and Research.
 - I am a 🎓student pursuing IT at KMIT.
 - 🌱 I’m currently learning 
