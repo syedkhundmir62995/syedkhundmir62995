@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on ML projects
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on any ML or Data science projects
-- ⚡ Fun fact: I love to be an admin.
+- ⚡ Reach me if you want to work on Django Projects
 
 
 ## ✉️ Find me on:
